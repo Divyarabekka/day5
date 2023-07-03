@@ -1,0 +1,46 @@
+"Details": {
+    "name": "A.divya",
+    "email": "rabekka25@gmail.com",
+    "phone": "23456",
+    "location": {
+      "address": "ashok nagar",
+      "postalCode": "630001",
+      "city": "pudukkottai",
+     "url": "https://div.com",
+    },
+"work": [{
+    "name": "SBI LIFE",
+    "position": "Unit manager",
+    "url": "https://company.com",
+    "startDate": "2020-01-01",
+    "endDate": "2022-01-01"}],
+ 
+"education": [{
+    "institution": "Mountzion engg&tech",
+    "url": "https://institution.com/",
+    "studyType": "Bachelor",
+    "startDate": "2011-01-01",
+    "endDate": "2014-01-01",
+    "score": "7.07",
+    "courses": [ "CSE"]}],
+ 
+    "institution": "GPTC",
+    "url": "https://institution.com/",
+    "studyType": "DIPLOMO",
+    "startDate": "2008-01-01",
+    "endDate": "2011-01-01",
+    "score": "7.07",
+    "courses": [ "CSE"]}],
+
+ "skills": [{
+    "name": "java",
+    "level": "Master",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+"languages": [{
+    "language":"tamil", "English",
+    
+   

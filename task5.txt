@@ -1,0 +1,7 @@
+var datesBooking = [
+    {"date": "04\/24\/2023"},
+      {"date": "04\/25\/2023"}
+    ];
+    
+    datesBooking.forEach(function(data, index) {
+      console.log(data);
